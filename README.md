@@ -96,4 +96,7 @@
 ## Charts
 #### Charts were deployed for:
      *- Analysis 8:
-     *- Analysis 13
+![Amazon Project 1](https://github.com/user-attachments/assets/3a76f038-00ee-48b4-9f03-b6b25f55a51d)
+
+          *- Analysis 13
+![Amazon Project 2](https://github.com/user-attachments/assets/5182fccf-d7a5-411d-8c70-242c7bfe7ad2)
