@@ -158,3 +158,6 @@
      
 ![Amazon Project 6](https://github.com/user-attachments/assets/3796bd8a-8059-402b-b397-e84c969dcab9)
 
+## PRESENTATION
+
+### The whole data was presented in an excel dashboard.
