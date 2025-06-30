@@ -95,11 +95,17 @@
        
 ## Charts
 #### Charts were deployed for:
+     *- Analysis 6:
+![Amazon Project 4](https://github.com/user-attachments/assets/3c9026ba-6843-499b-8564-c23c3f4803c9)
+
      *- Analysis 8:
 ![Amazon Project 1](https://github.com/user-attachments/assets/3a76f038-00ee-48b4-9f03-b6b25f55a51d)
     
      *- Analysis 10:
 ![Amazon Project 3](https://github.com/user-attachments/assets/b931dda2-8a72-465d-ac0b-b145c0cd9ca5)
+
+     *- Analysis 12
+ ![Amazon Project 5](https://github.com/user-attachments/assets/bd42d99d-d83d-4a80-a443-1584598765fe)
     
      *- Analysis 13
 ![Amazon Project 2](https://github.com/user-attachments/assets/5182fccf-d7a5-411d-8c70-242c7bfe7ad2)
