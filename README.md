@@ -111,4 +111,5 @@
 ![Amazon Project 2](https://github.com/user-attachments/assets/5182fccf-d7a5-411d-8c70-242c7bfe7ad2)
 
    *- Analysis 14:
+![Amazon Project 6](https://github.com/user-attachments/assets/3796bd8a-8059-402b-b397-e84c969dcab9)
 
