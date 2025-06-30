@@ -58,70 +58,70 @@
       
       *- Using Excel function to get the average
       
-   3. How many products are listed under each category
+   2. How many products are listed under each category
       
       *- Removing product duplicate
       
       *- Using Excel function (COUNTIFS) to count the data
       
-   5. What is the total number of reviews per category:
+   3. What is the total number of reviews per category:
       
       *- Using Excel function to extract the review id for each product
       
       *- Using Excel function (COUNTIFS) to count the data
       
-   7. Which products have the highest average ratings:
+   4. Which products have the highest average ratings:
       
       *- Using pivot tables to extract product and average ratings
       
       *- Using Excel function (VLOOKUP) to get the products with the highest average ratings.
       
-   9. What is the average actual price vs the discounted price by category:
+   5. What is the average actual price vs the discounted price by category:
     
       *- Using pivot tables to extract actual price per category
 
       *- Using Excel function (AVERAGE) to get the figure
       
-   10. Which products have the highest number of reviews:
+   6. Which products have the highest number of reviews:
       *- Sorting the tables that has the data for reviews and product to get the result
        
-   11. How many products have a discount of 50% or more:
+   7. How many products have a discount of 50% or more:
     
       *- Sorting the tables that has the data for % discount and product to get the result
        
-   15. What is the distribution of product ratings (e.g., how many products are rated 3.0, 4.0, etc.):
+   8. What is the distribution of product ratings (e.g., how many products are rated 3.0, 4.0, etc.):
 
       *- Sorting the tables that has the data for the product and ratings to see the distribtion
       
-   17. What is the total potential revenue (actual_price × rating_count) by category:
+   9. What is the total potential revenue (actual_price × rating_count) by category:
 
       *- Using pivot tables to extract actual price and rating counts
       
       *- Creating a new cloumn to show the prouct using Excel formula (MULTIPLY)
       
-   19. What is the number of unique products per price range bucket (e.g., <₹200, ₹200–₹500, >₹500):
+   10. What is the number of unique products per price range bucket (e.g., <₹200, ₹200–₹500, >₹500):
 
       *- Using pivot tables to extract actual price per product
       
       *- Using Excel function (IF) to get the figure
       
-   21. How does the rating relate to the level of discount:
+   11. How does the rating relate to the level of discount:
 
       *- Using pivot tables to extract product id, rating and % discount
       
       *- Sorting the data by highest ratings and highest % discount to show the distribution
       
-   23. How many products have fewer than 1,000 reviews:
+   12. How many products have fewer than 1,000 reviews:
 
       *- Using pivot tables to extract product id and rating count to show the total count
       
-   25. Which categories have products with the highest discounts:
+   13. Which categories have products with the highest discounts:
 
       *- Using pivot tables to extract category and % discount to show the total count
       
       *- Used a chart to show the distribution
       
-   27. Identify the top 5 products in terms of rating and number of reviews combined:
+   14. Identify the top 5 products in terms of rating and number of reviews combined:
 
       *- Using pivot tables to extract product id and rating count to show the total count
       
