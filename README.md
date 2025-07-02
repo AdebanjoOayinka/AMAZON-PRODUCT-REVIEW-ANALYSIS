@@ -46,10 +46,13 @@
    *- Microsoft PowerPoint [Download Here](https://microsoft-powerpoint.en.download.it/download)
 
 ## Tools Deployed
-   *- MS Excel Tables for data sorting, manipulating, cleaning and formatting
-   *- MS Excel pivot tables for analysis and showing distributions
-   *- MS Excel Charts to create charts
-   *- MS PowerPoint for charts presentation
+   1. MS Excel Tables for data sorting, manipulating, cleaning and formatting
+   
+   2. MS Excel pivot tables for analysis and showing distributions
+   
+   3. MS Excel Charts to create charts
+   
+   4. MS PowerPoint for charts presentation
 
 ## How the Analysis Were Carried Out
    1. What is the average discount percentage by product category:
