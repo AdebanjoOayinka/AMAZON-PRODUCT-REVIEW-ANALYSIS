@@ -40,10 +40,13 @@
 #### Using my cleaned dataset and pivot outputs, build an Excel dashboard.
 
 ## Data Source
-   *- Microsoft Excel [Download Here](https://microsoft-excel.en.download.it/download)
+   - Microsoft Excel [Download Here](https://microsoft-excel.en.download.it/download)
 
 ## Data Presentation
-   *- Microsoft PowerPoint [Download Here](https://microsoft-powerpoint.en.download.it/download)
+   - Microsoft PowerPoint [Download Here](https://microsoft-powerpoint.en.download.it/download)
+
+ ## Data Presentation
+   - Snip Tool [Download Here](https://apps.microsoft.com/detail/9mz95kl8mr0l?hl=en-US&gl=US)  
 
 ## Tools Deployed
    1. MS Excel Tables for data sorting, manipulating, cleaning and formatting
