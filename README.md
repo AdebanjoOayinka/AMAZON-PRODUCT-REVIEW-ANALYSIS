@@ -170,4 +170,5 @@
 ### The whole data were combined using 2 pivots tables to show the product review analysis and presented in charts on an excel dashboard.
 
 Dashboard:
-   
+   ![Amazon Project 7](https://github.com/user-attachments/assets/d66fc2c5-d7fb-4750-ad19-5d21893cd90b)
+
