@@ -60,107 +60,108 @@
 ## How the Analysis Were Carried Out
    1. What is the average discount percentage by product category:
       
-      *- Using Pivot tables to extract the Categories, Product and % Discount
+      - Using Pivot tables to extract the Categories, Product and % Discount
       
-      *- Using Excel function to get the average
+      - Using Excel function to get the average
       
    2. How many products are listed under each category
       
-      *- Removing product duplicate
+      - Removing product duplicate
       
-      *- Using Excel function (COUNTIFS) to count the data
+      - Using Excel function (COUNTIFS) to count the data
       
    3. What is the total number of reviews per category:
       
-      *- Using Excel function to extract the review id for each product
+      - Using Excel function to extract the review id for each product
       
-      *- Using Excel function (COUNTIFS) to count the data
+      - Using Excel function (COUNTIFS) to count the data
       
    4. Which products have the highest average ratings:
       
-      *- Using pivot tables to extract product and average ratings
+      - Using pivot tables to extract product and average ratings
       
-      *- Using Excel function (VLOOKUP) to get the products with the highest average ratings.
+      - Using Excel function (VLOOKUP) to get the products with the highest average ratings.
       
    5. What is the average actual price vs the discounted price by category:
     
-      *- Using pivot tables to extract actual price per category
+      - Using pivot tables to extract actual price per category
 
-      *- Using Excel function (AVERAGE) to get the figure
+      - Using Excel function (AVERAGE) to get the figure
       
    6. Which products have the highest number of reviews:
-      *- Sorting the tables that has the data for reviews and product to get the result
+      
+      - Sorting the tables that has the data for reviews and product to get the result
        
-   7. How many products have a discount of 50% or more:
+   8. How many products have a discount of 50% or more:
     
-      *- Sorting the tables that has the data for % discount and product to get the result
+      - Sorting the tables that has the data for % discount and product to get the result
        
-   8. What is the distribution of product ratings (e.g., how many products are rated 3.0, 4.0, etc.):
+   9. What is the distribution of product ratings (e.g., how many products are rated 3.0, 4.0, etc.):
 
-      *- Sorting the tables that has the data for the product and ratings to see the distribtion
+      - Sorting the tables that has the data for the product and ratings to see the distribtion
       
-   9. What is the total potential revenue (actual_price × rating_count) by category:
+   10. What is the total potential revenue (actual_price × rating_count) by category:
 
-      *- Using pivot tables to extract actual price and rating counts
+      - Using pivot tables to extract actual price and rating counts
       
-      *- Creating a new cloumn to show the prouct using Excel formula (MULTIPLY)
+      - Creating a new cloumn to show the prouct using Excel formula (MULTIPLY)
       
-   10. What is the number of unique products per price range bucket (e.g., <₹200, ₹200–₹500, >₹500):
+   11. What is the number of unique products per price range bucket (e.g., <₹200, ₹200–₹500, >₹500):
 
-      *- Using pivot tables to extract actual price per product
+      - Using pivot tables to extract actual price per product
       
-      *- Using Excel function (IF) to get the figure
+      - Using Excel function (IF) to get the figure
       
    11. How does the rating relate to the level of discount:
 
-      *- Using pivot tables to extract product id, rating and % discount
+      - Using pivot tables to extract product id, rating and % discount
       
-      *- Sorting the data by highest ratings and highest % discount to show the distribution
+      - Sorting the data by highest ratings and highest % discount to show the distribution
       
    12. How many products have fewer than 1,000 reviews:
 
-      *- Using pivot tables to extract product id and rating count to show the total count
+      - Using pivot tables to extract product id and rating count to show the total count
       
    13. Which categories have products with the highest discounts:
 
-      *- Using pivot tables to extract category and % discount to show the total count
+      - Using pivot tables to extract category and % discount to show the total count
       
-      *- Used a chart to show the distribution
+      - Used a chart to show the distribution
       
    14. Identify the top 5 products in terms of rating and number of reviews combined:
 
-      *- Using pivot tables to extract product id and rating count to show the total count
+      - Using pivot tables to extract product id and rating count to show the total count
       
-      *- Using Excel functions (IF) and (AND) to get the overal figure highest
+      - Using Excel functions (IF) and (AND) to get the overal figure highest
       
-      *- Confriming the results by column sorting by fighest figures 
+      - Confriming the results by column sorting by fighest figures 
       
-      *- Using Excel function (VLOOKUP) to get the name of the products in category column
+      - Using Excel function (VLOOKUP) to get the name of the products in category column
        
 ## Charts
 
 #### Charts were deployed for:
-     *- Analysis 6:
+     - Analysis 6:
      
 ![Amazon Project 4](https://github.com/user-attachments/assets/3c9026ba-6843-499b-8564-c23c3f4803c9)
 
-     *- Analysis 8:
+     - Analysis 8:
      
 ![Amazon Project 1](https://github.com/user-attachments/assets/3a76f038-00ee-48b4-9f03-b6b25f55a51d)
     
-     *- Analysis 10:
+     - Analysis 10:
      
 ![Amazon Project 3](https://github.com/user-attachments/assets/b931dda2-8a72-465d-ac0b-b145c0cd9ca5)
 
-     *- Analysis 12
+     - Analysis 12
      
  ![Amazon Project 5](https://github.com/user-attachments/assets/bd42d99d-d83d-4a80-a443-1584598765fe)
     
-     *- Analysis 13
+     - Analysis 13
      
 ![Amazon Project 2](https://github.com/user-attachments/assets/5182fccf-d7a5-411d-8c70-242c7bfe7ad2)
 
-     *- Analysis 14:
+     - Analysis 14:
      
 ![Amazon Project 6](https://github.com/user-attachments/assets/3796bd8a-8059-402b-b397-e84c969dcab9)
 
@@ -168,4 +169,5 @@
 
 ### The whole data were combined using 2 pivots tables to show the product review analysis and presented in charts on an excel dashboard.
 
-
+Dashboard:
+   
