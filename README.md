@@ -160,4 +160,6 @@
 
 ## PRESENTATION
 
-### The whole data was presented in an excel dashboard.
+### The whole data were combined using 2 pivots tables to show the product review analysis and presented in charts on an excel dashboard.
+
+
