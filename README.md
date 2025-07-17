@@ -37,7 +37,7 @@
 
 #### Include dashboard creation from the informations gotten from the analysis to present to the company stake holders for the quarterly product review meeting. This will show areas where they are winning and also where they need to improve.
 
-#### Using my cleaned dataset and pivot outputs, build an Excel dashboard.
+#### Using my cleaned dataset and pivot outputs, build an Excel dashboard. 
 
 ## Data Source
    - Microsoft Excel: [Download Here](https://microsoft-excel.en.download.it/download)
